@@ -1,3 +1,3 @@
 ﻿# whack-a-mole-game
  
- this is the the game for Javascript exercise
+ this is the game for Javascript exercise
